@@ -1,0 +1,11 @@
+! Title: Seyuk's PCDN DNS Blacklist
+! Description: 禁用有关中国大陆的部分软件把普通用户当PCDN的域名
+! Homepage: https://github.com/seyuk/
+! Last modified: 2024-04-19T17:08:08+08:00
+! Version: 20240419
+!
+! QQ Music
+||tp2p.kg.qq.com
+||twns.p2ptun.qq.com
+||musicps.p2p.qq.com
+||musicpunch.p2p.qq.com
