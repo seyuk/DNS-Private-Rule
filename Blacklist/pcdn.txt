@@ -5,7 +5,7 @@
 ! Version: 20240419
 !
 ! QQ Music
-||tp2p.kg.qq.com
-||twns.p2ptun.qq.com
-||musicps.p2p.qq.com
-||musicpunch.p2p.qq.com
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
+||musicps.p2p.qq.com^
+||musicpunch.p2p.qq.com^
