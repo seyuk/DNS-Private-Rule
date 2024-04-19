@@ -1,0 +1,8 @@
+! Title: Seyuk's KaiShou DNS Blacklist
+! Description: 禁用快手app域名
+! Homepage: https://github.com/seyuk/
+! Last modified: 2024-04-19T17:08:08+08:00
+! Version: 20240419
+!
+||upload.kuaishouzt.com^
+||onvideoapi.kuaishou.com^
