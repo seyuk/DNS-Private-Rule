@@ -9,3 +9,9 @@
 ! Upload Video
 ||upload.kuaishouzt.com^
 ||onvideoapi.kuaishou.com^
+! Download AD App Page
+||activity.e.kuaishou.com^
+! Download AD App File
+||p1-ad.adukwai.com^
+||p2-ad.adukwai.com^
+||p3-ad.adukwai.com^
